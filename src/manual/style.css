@@ -1,0 +1,20 @@
+h1{
+    color:red;
+    text-align:center;
+}
+
+h2{
+    padding:6px;
+    margin-top:20px;
+    background-color:rgb(0, 100, 50);
+    color:white;
+}
+
+p{
+    text-align:justify;
+    text-indent:25px;
+}
+
+strong{
+    color:blue;
+}
